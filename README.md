@@ -38,3 +38,7 @@ Actualmente trabajo como docente de robótica con la **Fundación Marina Orth**
 ## Frases que utilizo
 - ¿Qué es lo peor que puede pasar?
 
+## **Aplicando branch**
+
+-Hemos creado una nueva rama, en mi caso he creado la rama *"master"* ya que tenía de inicio la rama "main"
+
